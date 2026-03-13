@@ -1,0 +1,3 @@
+# HealthcareDataModelingSystem
+No external dependencies required.
+Uses strictly standard Python libraries.
