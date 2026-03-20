@@ -28,3 +28,15 @@ This project aims to develop a structured and modular healthcare data management
 ---
 
 ## 📂 Project Structure
+## Output Screenshots
+
+
+
+
+### Add Patient
+![Add Patient](screenshots/patient.png)
+
+
+
+
+
