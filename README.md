@@ -54,5 +54,9 @@ HealthcareDataModelingSystem/
 
 
 
+## 📌 Future Enhancements
 
+- Add GUI interface
+- Store data using database
+- Add authentication system
 
