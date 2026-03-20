@@ -27,7 +27,23 @@ This project aims to develop a structured and modular healthcare data management
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+HealthcareDataModelingSystem/
+│
+├── main.py
+├── patient.py
+├── doctor.py
+├── appointment.py
+├── prescription.py
+├── medical_record.py
+├── hospital.py
+├── utils.py
+├── requirements.txt
+│
+├── screenshots/
+│ └── patient.png
+│
+└── README.md
 ## Output Screenshots
 
 
